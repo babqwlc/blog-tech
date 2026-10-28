@@ -1,16 +1,16 @@
 :root {
-    --cor-primairia: #ff6600; /* Laranja */
+    --cor-primairia: #ff6600; 
     --cor-secundaria: #ffffff;
     --cor-titulo: #ff6600;
     --cor-fundo: #ffffff;
     --cor-texto: #ff6600;
-    --cor-contraste: #ffcc00; /* Amarelo */
+    --cor-contraste: #ffcc00; 
     --cor-botao: #ff6600;
     --fonte-texto: 'Segoe UI', sans-serif;
 }
 
 .tema-escuro {
-    --cor-primairia: #ffaa00; /* Amarelo Laranjado */
+    --cor-primairia: #ffaa00; 
     --cor-secundaria: #ffffff;
     --cor-titulo: #ffaa00;
     --cor-fundo: #2e2e2e;
