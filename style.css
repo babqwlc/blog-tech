@@ -10,13 +10,13 @@
 }
 
 .tema-escuro {
-    --cor-primairia: #ff8f00;
+    --cor-primairia: #db7c00;
     --cor-secundaria: #f5f5f5;
-    --cor-titulo: #ff8f00;
+    --cor-titulo: #db7c00;
     --cor-fundo: #1b1b1b;
-    --cor-texto: #ff8f00;
+    --cor-texto: #db7c00;
     --cor-contraste: #1b1b1b;
-    --cor-botao: #ff8f00;
+    --cor-botao: #db7c00;
 }
 
 .tema-escuro p {
